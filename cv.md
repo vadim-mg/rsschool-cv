@@ -36,7 +36,7 @@ function reverse(arr) {
 }
 ```
 
-Maybe something there is here: [GitHub] (https://github.com/vadim-mg)
+Maybe something there is here: [GitHub](https://github.com/vadim-mg)
 
 ---
 
