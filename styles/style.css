@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+
+html {
+  scroll-behavior: smooth;
+}
+
+.page {
+  color: black;
+  /* background-color: #80808073; */
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+.wrapper {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.container {
+  background-color: rgb(228, 228, 228);
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 16px;
+  text-align: left;
+}
+
+@media (max-width: 900px) {
+  .container {
+    max-width: 100%;
+  }
+}
+
+.header {
+  background-color: #777676;
+  border-bottom: 2px solid #777676;
+}
+
+.header-logo {
+  margin: 0;
+}
+
+.header-caption {
+  display: inline-block;
+  font-size: 3em;
+  margin: 0;
+}
+
+.nav {
+  padding: 0 1rem;
+}
+
+.nav-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: end;
+  align-items: center;
+  list-style: none;
+}
+
+.nav-item {}
+
+.nav-link {
+  color: black;
+  padding: 0 20px;
+  line-height: 50px;
+  text-decoration: none;
+}
+
+.nav-link:hover {
+  text-shadow: 1px 1px rgb(74, 71, 71);
+  transition: .3s;
+}
+
+.link {
+  text-decoration: none;
+  color:black;
+}
+
+.link:hover {
+  text-shadow: 1px 1px rgb(74, 71, 71);
+  transition: .3s;
+}
+
+.about-image {
+  max-width: 100px;
+  margin: 16px 0;
+  object-fit: contain;
+}
+
+.section {
+  border-bottom: 1px solid #777676;
+  padding: 0;
+  margin: 0;
+}
+
+.code-pre-wrapper {
+  margin: 0;
+  display: block;
+  overflow: scroll;
+  background: #77767666;
+}
+
+.code {}
+
+.about {
+  display: flex;
+  justify-content: space-between;
+}
+
+.main {
+  flex-grow: 2;
+}
+
+.footer {
+  background-color: #777676;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer-link {
+  text-decoration: none;
+  color: black;
+}
+
+.footer-link:hover {
+  text-shadow: 1px 1px rgb(74, 71, 71);
+  transition: .3s;
+}
+
+.footer-logo {
+  width: 100px;
+  padding: 16px;
+  border-radius: 16px;
+}
+
+.footer-logo:hover {
+  background-color: rgb(228, 228, 228);
+  transition: .3s;
+}
