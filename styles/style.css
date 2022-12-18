@@ -22,12 +22,17 @@ html {
 .container {
   background-color: rgb(228, 228, 228);
   width: 100%;
-  max-width: 800px;
+  max-width: 900px;
   margin: 0 auto;
   padding: 16px;
   text-align: left;
 }
 
+@media (max-width: 900px) {
+  .container {
+    max-width: 100%;
+  }
+}
 
 .header {
   background-color: #777676;
