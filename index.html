@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CV</title>
+  <link rel="stylesheet" href="styles/style.css">
+  <link rel="icon" href="assets/favicon.ico">
+</head>
+
+<body class="page">
+  <div class="wrapper">
+    <header class="header container">
+      <nav class="nav">
+        <ul class="nav-list">
+          <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
+          <li class="nav-item"><a href="#about" class="nav-link">About</a></li>
+          <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>
+          <li class="nav-item"><a href="#code" class="nav-link">Code</a></li>
+          <li class="nav-item"><a href="#experience" class="nav-link">Experience</a></li>
+          <li class="nav-item"><a href="#works" class="nav-link">Work Tasks</a></li>
+          <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
+          <li class="nav-item"><a href="#language" class="nav-link">Language</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main class="main container">
+      <h1 class="header-caption">Vadim MG</h1>
+      <section class="section" id="contacts">
+        <h2 class="section-title">Contact information:</h2>
+        <ul>
+          <li>Telegram: <a class="link" href="https://t.me/vadim-mg" target="blank">@vadim-mg</a></li>
+          <li>Discord: <a class="link" href="https://discordapp.com/users/vm#7160/" target="blank">
+              Vadim-mg(@vadim-mg)</a></li>
+        </ul>
+      </section>
+      <section class="section about" id="about">
+        <div>
+          <h2 class="section-title">About myself:</h2>
+          <p>I want to learn Front-end development in RSSchool. I know it a little. My target is to improve my skills.
+            I'll do it.</p>
+        </div>
+        <img class="about-image" src="images/photo.jpg" alt="photo">
+      </section>
+      <section class="section" id="skills">
+        <h2 class="section-title">Skills:</h2>
+        <p>Basics of: <b>HTML / CSS / JS</b></p>
+      </section>
+      <section class="section" id="code">
+        <h2 class="section-title">Code:</h2>
+        <p>From codewards:</p>
+        <pre class="code-pre-wrapper">
+        <code class="code">
+    function reverse(arr) {
+      for(let i=0; i&lt;arr.length/2; i++){
+        let buf = arr[i]
+        arr[i] = arr[arr.length - 1- i]
+        arr[arr.length - 1 - i] = buf
+      }
+    }
+        </code>
+        </pre>
+        <p>Maybe something there is here: <a class="link" href="https://github.com/vadim-mg"> GitHub</a></p>
+      </section>
+      <section class="section" id="works">
+        <h2 class="section-title">Work tasks:</h2>
+        <ul>
+          <li>
+            <a class="link" href="https://github.com/vadim-mg/file-manager" target="_blank">file-manager</a>
+          </li>
+        </ul>
+      </section>
+      <section class="section" id="experience">
+        <h2 class="section-title">Work experience:</h2>
+        <p>Over 10 years experience in various positions.</p>
+      </section>
+      <section class="section" id="education">
+        <h2 class="section-title">Education:</h2>
+        <p>Higher technical education and self-education.</p>
+      </section>
+      <section class="section" id="language">
+        <h2 class="section-title">Language:</h2>
+        <ul>
+          <li>Russian: Native</li>
+          <li>English: level - A1</li>
+        </ul>
+      </section>
+
+    </main>
+    <footer class="footer container">
+      <span>&copy; 2002 <a class="footer-link" href="https://github.com/vadim-mg" target="blank">Vadim-MG</a> </span>
+      <a class="footer-link" href="https://rs.school/js/" target="blank">
+        <img class="footer-logo" src="assets/rs_school_js.svg" alt="logo RSSchool">
+      </a>
+    </footer>
+  </div>
+</body>
+
+</html>
