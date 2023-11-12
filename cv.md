@@ -11,14 +11,14 @@
 
 ### About myself:
 
-I want to learn Front-end development in RSSchool.
-My target is to improve my skills.
+I want to finish learning Front-end development in RSSchool.
+My target is to improve my skills in front-end.
 
 ---
 
 ### Skills:
 
-Basics of: HTML / CSS / JS
+HTML / CSS / basics of JS
 
 ---
 
