@@ -18,7 +18,7 @@ My target is to improve my skills.
 
 ### Skills:
 
-Basics of: HTML / CSS / JS
+HTML / CSS / JS
 
 ---
 
