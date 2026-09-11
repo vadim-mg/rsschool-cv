@@ -4,7 +4,7 @@
 
 ### Contact information:
 
-- **Telegram**: [@vadim-mg](https://t.me/vadim_mg)
+- **Telegram**: [@vadim_mg](https://t.me/vadim_mg)
 - **Discord**: vm(@vm7160)
 
 ---
@@ -56,8 +56,6 @@ Higher technical education and self-education.
 courses:
 * [RSSchool - NODEJS 2022 Q4 (NODEJS)](https://app.rs.school/certificate/enau1qu6)
 * [RSSchool - JAVASCRIPT/FRONT-END 2023Q4](https://app.rs.school/certificate/elhwnov7)
-
-[RSSchool - JAVASCRIPT/FRONT-END 2023Q4](https://app.rs.school/certificate/elhwnov7)
 
 ---
 
