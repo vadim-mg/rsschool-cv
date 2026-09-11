@@ -13,7 +13,7 @@
 
 I want to improve Full-stack development skills in RSSchool.
 My target is:
-* to improve my wev-development skills
+* to improve my web-development skills
 * remember forgotten materials
 * know something new
 * study ai flow for web-development
@@ -22,7 +22,7 @@ My target is:
 
 ### Skills:
 
-HTML / CSS / JS / PHP / MySql 
+HTML / CSS / JS / PHP / MySql
 
 ---
 
