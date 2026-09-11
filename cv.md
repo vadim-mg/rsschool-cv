@@ -4,7 +4,7 @@
 
 ### Contact information:
 
-- **Telegram**: [@vadim-mg](https://t.me/vadim_mg)
+- **Telegram**: [@vadim_mg](https://t.me/vadim_mg)
 - **Discord**: vm(@vm7160)
 
 ---
