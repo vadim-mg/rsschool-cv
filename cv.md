@@ -5,20 +5,24 @@
 ### Contact information:
 
 - **Telegram**: [@vadim-mg](https://t.me/vadim_mg)
-- **Discord**: Vadim-mg(@vadim-mg)
+- **Discord**: vm(@vm7160)
 
 ---
 
 ### About myself:
 
-I want to learn Front-end development in RSSchool.
-My target is to improve my skills.
+I want to improve Full-stack development skills in RSSchool.
+My target is:
+* to improve my wev-development skills
+* remember forgotten materials
+* know something new
+* study ai flow for web-development
 
 ---
 
 ### Skills:
 
-HTML / CSS / JS
+HTML / CSS / JS / PHP / MySql 
 
 ---
 
@@ -42,7 +46,7 @@ Maybe something there is here: [GitHub](https://github.com/vadim-mg)
 
 ### Work experience:
 
-Over 10 years experience in various positions.
+Over 13 years experience in various positions.
 
 ---
 
@@ -50,9 +54,11 @@ Over 10 years experience in various positions.
 
 Higher technical education and self-education.
 
+[RSSchool - JAVASCRIPT/FRONT-END 2023Q4](https://app.rs.school/certificate/elhwnov7)
+
 ---
 
 ### Language:
 
 - Russian: Native
-- English: level - A1
+- English: level - A2
