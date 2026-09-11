@@ -53,6 +53,9 @@ Over 13 years experience in various positions.
 ### Education:
 
 Higher technical education and self-education.
+courses:
+* [RSSchool - NODEJS 2022 Q4 (NODEJS)](https://app.rs.school/certificate/enau1qu6)
+* [RSSchool - JAVASCRIPT/FRONT-END 2023Q4](https://app.rs.school/certificate/elhwnov7)
 
 [RSSchool - JAVASCRIPT/FRONT-END 2023Q4](https://app.rs.school/certificate/elhwnov7)
 
