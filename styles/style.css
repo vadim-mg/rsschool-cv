@@ -86,9 +86,9 @@ html {
 }
 
 .about-image {
-  max-width: 100px;
-  margin: 16px 0;
-  object-fit: contain;
+    max-width: 100px;
+    object-fit: contain;
+    align-self: center;
 }
 
 .section {
